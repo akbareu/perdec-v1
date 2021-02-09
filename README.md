@@ -6,4 +6,4 @@ WEBSITE yang dibuat menggunakan :
 - Bootstrap
 - jQuery
 
-Database bernama perdec-v1.sql*
+untuk mysql(database) nama filenya perdec-v1.sql*
