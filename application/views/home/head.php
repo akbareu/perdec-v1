@@ -1,7 +1,3 @@
-<?php 
-$site       =   $this->konfigurasi_model->listing();
-$author     =   $this->user_model->listing1();
-?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
