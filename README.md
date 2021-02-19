@@ -6,5 +6,8 @@ WEBSITE yang dibuat menggunakan :
 - Codeigniter
 - Bootstrap
 - jQuery
+ 
+USERNAME : admin
+PASSWORD : admin
 
 database diimport *perdec-v1.sql
